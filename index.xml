@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the SPC home page! on Sport Programming Club</title>
+    <link>https://spcubco.github.io/</link>
+    <description>Recent content in Welcome to the SPC home page! on Sport Programming Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 10:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://spcubco.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetings 2019</title>
+      <link>https://spcubco.github.io/posts/2019/01/meetings-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 10:00:00 -0800</pubDate>
+      
+      <guid>https://spcubco.github.io/posts/2019/01/meetings-2019/</guid>
+      <description> This page will be updated with the content of the meetings.
+The password asked to join the contest is &amp;ldquo;okanagan&amp;rdquo;, without quotes.
+Meeting 6  Prefix Sum Article Maximum Subarray Sum with Prefix Sum Contest  Meeting 5  Google Kickstart Practice Round Binary Search  Meeting 4  Slides Contest  Meeting 3  Contest  Meeting 2  Slides Contest  Meeting 1  Slides Contest  Useful Links  uHunt Competitive Programming Book VisuAlgo Training Sheet  </description>
+    </item>
+    
+    <item>
+      <title>About SPC</title>
+      <link>https://spcubco.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spcubco.github.io/about/</guid>
+      <description>The Sport Programming Club (SPC) is a club dedicated to foster a problem-solving community on the UBC Okanagan Campus.
+We participate in many programming competitions such as Google Code Jam, Facebook Hacker Cup and ACM ICPC. If you are interested in competing in those or just want to improve your problem-solving skills, just come by our meetings at Wednesday from 18:00 to 20:00 @ ART 102. Pizza provided!
+Connect with us on Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://spcubco.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spcubco.github.io/contact/</guid>
+      <description>Contact me!</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://spcubco.github.io/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spcubco.github.io/training/</guid>
+      <description>We meet weekly to discuss problems from past contests and introduce new techniques. We support all our members and will try our best to help you train.
+We also encourage members with more available time to follow this training sheet. The more you train, the better problem solver you become.
+We also provide 1-on-1 coaching. If you are interested, send us an email.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://spcubco.github.io/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spcubco.github.io/calendar/</guid>
+      <description> This calendar contains the events we encourage our members to participate.
+Google Kick Start  Round A - Mar 23 from 20:00 to 23:00.  Google Code Jam  Qualification Round - April 5 from 15:00 until April 6 18:00.  ACM ICPC  TBD  Facebook Hacker Cup  TBD  </description>
+    </item>
+    
+  </channel>
+</rss>
