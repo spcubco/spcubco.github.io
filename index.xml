@@ -6,10 +6,21 @@
     <description>Recent content in Welcome to the SPC home page! on Sport Programming Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 10:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 10:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://spcubco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meetings 2020</title>
+      <link>https://spcubco.github.io/posts/2019/09/meetings-2020/</link>
+      <pubDate>Sun, 01 Sep 2019 10:00:00 -0800</pubDate>
+      
+      <guid>https://spcubco.github.io/posts/2019/09/meetings-2020/</guid>
+      <description> This page will be updated with the content of the meetings.
+The password asked to join the contest is &amp;ldquo;okanagan&amp;rdquo;, without quotes.
+Meeting 1  Slides: TBA  Useful Links  uHunt Competitive Programming Book VisuAlgo Training Sheet  </description>
+    </item>
     
     <item>
       <title>Meetings 2019</title>
@@ -29,7 +40,7 @@ Meeting 9 In this meeting, we will not use vjudge. Instead, we will use problems
       
       <guid>https://spcubco.github.io/about/</guid>
       <description>The Sport Programming Club (SPC) is a club dedicated to foster a problem-solving community on the UBC Okanagan Campus.
-We participate in many programming competitions such as Google Code Jam, Facebook Hacker Cup and ACM ICPC. If you are interested in competing in those or just want to improve your problem-solving skills, just come by our meetings at Wednesday from 18:00 to 20:00 @ ART 102. Pizza provided!
+We participate in many programming competitions such as Google Code Jam, Facebook Hacker Cup and ACM ICPC. If you are interested in competing in those or just want to improve your problem-solving skills, just come by our meetings at Wednesday from 19:00 to 21:00, Room TBD. Pizza provided!
 Connect with us on Facebook.</description>
     </item>
     
@@ -59,8 +70,8 @@ We also provide 1-on-1 coaching. If you are interested, send us an email.</descr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spcubco.github.io/calendar/</guid>
-      <description> This calendar contains the events we encourage our members to participate.
-Google Code Jam  Qualification Round - April 5 from 16:00 until April 6 19:00.  Google Kick Start  Round B - April 20 from 16:00 to 19:00 Round A - Mar 23 from 21:00 to 00:00.  ACM ICPC  TBD  Facebook Hacker Cup  TBD  </description>
+      <description>This calendar contains the events we encourage our members to participate.
+ACM ICPC  November 9th at UBC Vancouver More information TBA  UBC Programming Contest  Practice round at 11:00-12:30pm PDT Contest at 1:00-5:00pm PDT Room TBD  Google Code Jam  Qualification Round - April 5 from 16:00 until April 6 19:00.  Google Kick Start  Round B - April 20 from 16:00 to 19:00 Round A - Mar 23 from 21:00 to 00:00.</description>
     </item>
     
   </channel>

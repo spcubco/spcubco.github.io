@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://spcubco.github.io/posts/2019/09/meetings-2020/</loc>
+    <lastmod>2019-09-01T10:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://spcubco.github.io/posts/2019/01/meetings-2019/</loc>
     <lastmod>2019-01-01T10:00:00-08:00</lastmod>
   </url>
@@ -17,7 +22,7 @@
   
   <url>
     <loc>https://spcubco.github.io/posts/</loc>
-    <lastmod>2019-01-01T10:00:00-08:00</lastmod>
+    <lastmod>2019-09-01T10:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,7 +36,7 @@
   
   <url>
     <loc>https://spcubco.github.io/</loc>
-    <lastmod>2019-01-01T10:00:00-08:00</lastmod>
+    <lastmod>2019-09-01T10:00:00-08:00</lastmod>
   </url>
   
 </urlset>
