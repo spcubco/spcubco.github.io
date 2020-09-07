@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Students&#39; Programming Club</title>
-    <link>https://sandbox-devfesttoulouse.firebaseapp.com/fr/</link>
-    <description>Recent content on Students&#39; Programming Club</description>
+    <title>Sports Programming Club</title>
+    <link>https://spcubco.github.io/fr/</link>
+    <description>Recent content on Sports Programming Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://sandbox-devfesttoulouse.firebaseapp.com/fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spcubco.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

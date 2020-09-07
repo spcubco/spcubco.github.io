@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sandbox-devfesttoulouse.firebaseapp.com/fr/</loc>
+    <loc>https://spcubco.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sandbox-devfesttoulouse.firebaseapp.com/"
+                href="https://spcubco.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sandbox-devfesttoulouse.firebaseapp.com/fr/"
+                href="https://spcubco.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://sandbox-devfesttoulouse.firebaseapp.com/fr/tags/</loc>
+    <loc>https://spcubco.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sandbox-devfesttoulouse.firebaseapp.com/tags/"
+                href="https://spcubco.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sandbox-devfesttoulouse.firebaseapp.com/fr/tags/"
+                href="https://spcubco.github.io/fr/tags/"
                 />
   </url>
   
