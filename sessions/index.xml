@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meetings on Sports Programming Club</title>
+    <title>Sessions on SPC Programming Club</title>
     <link>https://spcubco.github.io/sessions/</link>
-    <description>Recent content in Meetings on Sports Programming Club</description>
+    <description>Recent content in Sessions on SPC Programming Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spcubco.github.io/sessions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Meeting</title>
-      <link>https://spcubco.github.io/sessions/meeting_0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Resources for Sessions</title>
+      <link>https://spcubco.github.io/sessions/resources_session/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://spcubco.github.io/sessions/meeting_0/</guid>
-      <description>TBD</description>
+      <guid>https://spcubco.github.io/sessions/resources_session/</guid>
+      <description>Resources to help you in your training sessions</description>
     </item>
     
   </channel>

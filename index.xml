@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Sports Programming Club</title>
+    <title>Home on SPC Programming Club</title>
     <link>https://spcubco.github.io/</link>
-    <description>Recent content in Home on Sports Programming Club</description>
+    <description>Recent content in Home on SPC Programming Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,16 @@
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://spcubco.github.io/blog/get-ready-for-2020-2021/</guid>
-      <description>TBA</description>
+      <description>The programming club is back to activity in 2020/2021 - on an all-online format!</description>
+    </item>
+    
+    <item>
+      <title>Resources for Sessions</title>
+      <link>https://spcubco.github.io/sessions/resources_session/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://spcubco.github.io/sessions/resources_session/</guid>
+      <description>Resources to help you in your training sessions</description>
     </item>
     
     <item>
@@ -89,8 +98,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://spcubco.github.io/faq/</guid>
-      <description>General What is SPC? This FAQ is under construction
-How do I become a club member? Do I need to know how to programm to participate in SPC? Which programming language do you use? Competitions In which competitions do you participate? How are teams selected? Resources Which resources should I use to train? </description>
+      <description>General What is SPC? SPC is a student-run club dedicated to foster a programming community on the UBC Okanagan campus. We provide resources and training for our members to excel at programming competitions at the national and international levels.
+How do I become a club member? Fill in the membership form to become a club member.
+Do I need to know how to program to join SPC? Programming is not a pre-requisite to join SPC - it is something our members learn with time.</description>
     </item>
     
     <item>
@@ -145,15 +155,6 @@ How do I become a club member? Do I need to know how to programm to participate 
       
       <guid>https://spcubco.github.io/team/icpc_2019/kyle_2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Meeting</title>
-      <link>https://spcubco.github.io/sessions/meeting_0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://spcubco.github.io/sessions/meeting_0/</guid>
-      <description>TBD</description>
     </item>
     
     <item>
