@@ -1,4 +1,4 @@
-# SPC UBCO
+# SPC UBCO Page
 
 The Sport Programming Club (SPC) is a club dedicated to foster a problem-solving community on the UBC Okanagan Campus. 
 
