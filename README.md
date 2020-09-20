@@ -20,6 +20,13 @@ If you don't have the repository alreadty, clone the repository:
 
 ```
 git clone https://github.com/spcubco/spcubco.github.io.git
+cd spcubco.github.io.git
+```
+
+If you already have it, it is a good idea to pull the latest code:
+
+```
+git pull
 ```
 
 Then, start up the Hugo server. If you don't have Hugo installed, [check here how to install it](https://gohugo.io/getting-started/installing/).
