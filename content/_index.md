@@ -12,7 +12,7 @@ menu:
 {{% jumbo img="/images/backgrounds/NAC2020UBCO.jpg" imgLabel="DevFest Toulouse 2019" %}}
 
 ## SPC Programming Club
-### Meetings: Weekly, Time TBA
+### Meetings: Weekly, Thursdays @ 5:30 PM Pacific Time
 ### Room: Discord - [click here for the invite](https://discord.gg/zzHXWNE)
 
 {{% /jumbo %}}
