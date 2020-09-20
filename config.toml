@@ -1,0 +1,76 @@
+baseURL = "https://spcubco.github.io/"
+languageCode = "en"
+title = "SPC Programming Club"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-37717223-8"
+
+[params]
+    title = "SPC Programming Club"
+    date = "2020-09-05"
+    description = "The student-run programming club for UBC Okanagan! Join us to participate in programming competitions for students and much more!"
+    images = ["/images/social-share.jpg"]
+    email = "spc.ubco@gmail.com"
+    keywords = "spc, icpc, ubco, ubc, okanagan, codejam, competitive, programming, club"
+    subscriptionUrl = "https://forms.gle/HwRk2USpKdYcAzq26"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon.ico"
+    favicon16 = "/favicon.ico"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/favicon.ico"
+    themeColor = "#673ab7"
+    discord = "https://discord.gg/zzHXWNE"
+
+[params.logos]
+    jumbo = "/images/logos/SPC_Logo.png"
+    header = "/images/logos/spc_white_fira_sans_bold.png"
+    footer = ""
+
+[menu]
+#[[menu.main]]
+#    identifier = "Zeta"
+#   name = "Zeta"
+#    url = "https://jobs.devfesttoulouse.fr/"
+#    weight = 100
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+
+[languages.fr.params]
+    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
