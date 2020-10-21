@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://spcubco.github.io/blog/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://spcubco.github.io/blog/get-ready-for-2020-2021/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://spcubco.github.io/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -28,12 +18,27 @@
   </url>
   
   <url>
-    <loc>https://spcubco.github.io/sessions/resources_session/</loc>
-    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <loc>https://spcubco.github.io/sessions/session_notes/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://spcubco.github.io/sessions/</loc>
+    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spcubco.github.io/blog/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spcubco.github.io/blog/get-ready-for-2020-2021/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spcubco.github.io/sessions/resources_session/</loc>
     <lastmod>2020-09-06T00:00:00+00:00</lastmod>
   </url>
   
